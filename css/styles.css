@@ -1,5 +1,5 @@
-div{
-  background-color: cyan;
+.top-container{
+  background-color: #E4F9F5;
 }
 body{
   background-color: teal;
@@ -7,4 +7,14 @@ body{
 }
 h1{
   margin: 0px;
+}
+.middle-container{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+.bottom-container{
+  width: 200px;
+  height: 200px;
+  background-color: blue;
 }
